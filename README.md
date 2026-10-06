@@ -1,5 +1,9 @@
 # ADBD-Practica2
 
+## Diagrama
+
+[Diagrama](Practica2-ADBD.drawio.png)
+
 ## Entidades
 - Cliente: Representa a un cliente de Tajinaste S.A. Tiene un atributo identificador.
 - Tajinaste Plus:  Representa a un cliente de Tajinaste S.A que pertenece al programa Tajinaste Plus. Tiene de atributos las ventajas con las que cuenta y la fecha de ingreso al programa.
@@ -17,3 +21,8 @@
 - Realizar Tarea (Empleado, Zona): En una zona cero o varios empleados pueden realizar una tarea con nombre y fecha. Cero o más empleados realizan tareas en una zona.
 Gestiona (Empleado, Pedido): Un empleado gestiona cero o más pedidos. Un pedido es responsabilidad (es gestionado) por un solo empleado.
 Realiza (Pedido, Tajinaste Plus): Un cliente Tajinaste Plus realiza cero o más pedidos. Cero o máś pedidos pueden ser realizados por un Tajinaste Plus
+
+## Autores
+
+**Andrés David Riera Rivera**
+**Alejandro Feo Martín**
