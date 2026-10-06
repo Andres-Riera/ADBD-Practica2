@@ -2,7 +2,7 @@
 
 ## Diagrama
 
-[Diagrama](Practica2-ADBD.drawio.png)
+![Diagrama](Practica2-ADBD.drawio.png)
 
 ## Entidades
 - Cliente: Representa a un cliente de Tajinaste S.A. Tiene un atributo identificador.
@@ -24,5 +24,5 @@ Realiza (Pedido, Tajinaste Plus): Un cliente Tajinaste Plus realiza cero o más 
 
 ## Autores
 
-**Andrés David Riera Rivera**
+**Andrés David Riera Rivera**  
 **Alejandro Feo Martín**
