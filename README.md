@@ -19,8 +19,8 @@
 - Trabaja (Empleado, Vivero): Un empleado trabaja en un vivero. Un vivero tiene cero o varios empleados.
 - IS_A (Tajinaste Plus, Cliente): Una jerarquía parcial en la que un Tajinaste Plus es un cliente. Un cliente puede ser o no un Tajinaste Plus.
 - Realizar Tarea (Empleado, Zona): En una zona cero o varios empleados pueden realizar una tarea con nombre y fecha. Cero o más empleados realizan tareas en una zona.
-Gestiona (Empleado, Pedido): Un empleado gestiona cero o más pedidos. Un pedido es responsabilidad (es gestionado) por un solo empleado.
-Realiza (Pedido, Tajinaste Plus): Un cliente Tajinaste Plus realiza cero o más pedidos. Cero o máś pedidos pueden ser realizados por un Tajinaste Plus
+- Gestiona (Empleado, Pedido): Un empleado gestiona cero o más pedidos. Un pedido es responsabilidad (es gestionado) por un solo empleado.
+- Realiza (Pedido, Tajinaste Plus): Un cliente Tajinaste Plus realiza cero o más pedidos. Cero o más pedidos pueden ser realizados por un Tajinaste Plus
 
 ## Autores
 
