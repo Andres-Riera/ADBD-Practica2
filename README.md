@@ -22,6 +22,10 @@
 - Gestiona (Empleado, Pedido): Un empleado gestiona cero o más pedidos. Un pedido es responsabilidad (es gestionado) por un solo empleado.
 - Realiza (Pedido, Tajinaste Plus): Un cliente Tajinaste Plus realiza cero o más pedidos. Cero o más pedidos pueden ser realizados por un Tajinaste Plus
 
+## Modificación
+![Diagrama-Modificacion](Modificacion.png)
+
+
 ## Autores
 
 **Andrés David Riera Rivera**  
